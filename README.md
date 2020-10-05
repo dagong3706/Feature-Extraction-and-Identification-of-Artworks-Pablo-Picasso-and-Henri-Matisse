@@ -60,7 +60,7 @@ We chose RMS value to evaluate the contrast of a portrait and the entropy to eva
   * [Mean RMS contrast over years in Picasso's and Matisse's portraits](/results/bokeh_mean_rms_overyears_2.png)
   
 - Bokeh visualization of these two artists: please run the notebook, we displayed all the portraits with the corresponding points.
-  * [Boheh visualization](/results/Visualization_final.ipynb)
+  * [Boheh visualization](/results/Visualization_gongda.ipynb)
 
 
 ## Discussion
