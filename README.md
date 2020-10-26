@@ -49,19 +49,26 @@ We chose RMS value to evaluate the contrast of a portrait and the entropy to eva
 
 - RMS contrast value in Picasso's paintings grouped by Maternity and Mistress: The RMS contrast for Mistress group is higher that that of Maternity group.
   * [RMS contrast of Picasso's portraits](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
+  ![alt text](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png)
 
 - RMS contrast value in Matisse's paintings grouped by Maternity and Mistress: The RMS contrast for Mistress group is higher that that of Maternity group.
   * [RMS contrast of Matisse's portraits](/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
+  ![alt text](/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png)
 
 - RMS contrast value in Picasso's and Matisse's paintings: Overall, Picasso's portraits have higher RMS contrasts.
   * [RMS contrast of Picasso's and Matisse's portraits](/results/Picasso's%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Matisse's%20Paintings'%20RMS%20Contrast%20Value.png)
+  ![alt text](/results/Picasso's%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Matisse's%20Paintings'%20RMS%20Contrast%20Value.png)
 
 - Mean RMS contrast over years in Picasso's and Matisse's portraits: Since the year 1906 when they met, through the twenty years after, their RMS contrast have a overall similar pattern.
   * [Mean RMS contrast over years in Picasso's and Matisse's portraits](/results/bokeh_mean_rms_overyears_2.png)
+  ![alt text](/results/bokeh_mean_rms_overyears_2.png)
   
 - Bokeh visualization of these two artists: please run the notebook, we displayed all the portraits with the corresponding points.
   * [Boheh visualization](/results/Visualization_gongda.ipynb)
-
+  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (5).png)
+  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (6).png)
+  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (7).png)
+  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/img-2.jpg)
 
 ## Discussion
 
