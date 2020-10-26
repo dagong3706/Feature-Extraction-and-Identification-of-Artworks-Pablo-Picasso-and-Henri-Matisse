@@ -65,10 +65,10 @@ We chose RMS value to evaluate the contrast of a portrait and the entropy to eva
   
 - Bokeh visualization of these two artists: please run the notebook, we displayed all the portraits with the corresponding points.
   * [Boheh visualization](/results/Visualization_gongda.ipynb)
-  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (5).png)
-  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (6).png)
-  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/bokeh_plot (7).png)
-  ![alt text](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1/blob/master/results/results/img-2.jpg)
+  ![alt text](/results/bokeh_plot(5).png)
+  ![alt text](/results/bokeh_plot(6).png)
+  ![alt text](/results/bokeh_plot(7).png)
+  ![alt text](/results/img-2.jpg)
 
 ## Discussion
 
